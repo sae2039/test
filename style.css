@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 body {
     background-color: lightblue;
   }
@@ -23,3 +24,9 @@ body {
   .div3 {
     background: green;
   }
+=======
+body{
+    background-color: red;
+    border-style: dashed;
+}
+>>>>>>> a5d9f768e8721244652825e0b0220b43500c79e5
